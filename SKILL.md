@@ -3,8 +3,9 @@ name: adventure-marketing-design
 description: Design high-impact, low-cost marketing initiatives that generate significant attention through bold, personally-led activities rather than traditional advertising.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3343
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - adventure-marketing-design
 - comedy
